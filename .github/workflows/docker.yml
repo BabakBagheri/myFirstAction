@@ -41,3 +41,4 @@ jobs:
           SKIP_LOGIN: true
 
       - run: docker --version
+      - run: docker run helloworld
