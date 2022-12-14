@@ -7,6 +7,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class BetaVersionApplication {
 
 	public static void main(String[] args) {
+
+		
 		SpringApplication.run(BetaVersionApplication.class, args);
 	}
 
